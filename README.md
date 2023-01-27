@@ -1,6 +1,6 @@
 ### Hello there...
 Eu sou o Diego Corjesus.
-Estudante da área de informatica no Grau Tecnico.
+Estudante da área de programação Front-end.
 
 <div align="center">
   <a href="https://github.com/DiegoCorjesus">
